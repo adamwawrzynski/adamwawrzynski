@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @adamwawrzynski
-- 🌱 I’m currently pursuing my PhD in natual language processing field.
-- 💻 I’m currently working at [Voicelab.ai](https://voicelab.ai/) (NLP R&D Team).
-- 💞️ I’m looking to collaborate on natural language generation topic.
+- 💻 I’m currently working at [ReasonField Lab](https://www.reasonfieldlab.com/) (ML Team).
 
 <!---
 adamwawrzynski/adamwawrzynski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
